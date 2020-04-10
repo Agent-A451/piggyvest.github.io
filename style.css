@@ -1,0 +1,77 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    width: auto;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,noto sans,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+}
+
+p.create {
+    color: rgb(17, 17, 105);
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 80vh;
+    width: 37%;
+    background-color: white;
+    border-radius: 20px;
+    border-bottom-left-radius: 0;
+    padding: 15px 22px;
+    box-sizing: border-box;
+    margin: 10px 5px;
+}
+body {
+    background-color: #062863;
+    justify-content: center;
+    align-items: center;
+   
+}
+input {
+    padding: 15px;
+    background-color: rgb(227, 227, 233);
+    border-radius: 3px;
+    border: 0;
+}
+object {
+    width: 200px;
+    height: 40px;
+}
+img {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 40px;
+}
+footer {
+    color: white;
+    text-align: center;
+    padding: 15px;
+    align-self: center;
+}
+button {
+    padding: 20px;
+    background-color: #062863;
+    color: white;
+    border-radius: 5px;
+    border-bottom-left-radius: 0%;
+    width: 400px;
+    align-self: center;
+    border: 0;
+}
+select {
+    padding: 15px;
+    border: 0;
+    border-radius: 3px;
+    background-color: rgb(227, 227, 233);
+}
+.image {
+   justify-content: center;
+   display: flex;
+}
+
+
